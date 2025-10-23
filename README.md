@@ -149,7 +149,7 @@ NEXT_PUBLIC_API_URL=http://localhost:4000
 ## 🖼️ Screenshots
 
 ![Screenshot](docs/screenshot-dark.png)
-![Screenshot](docs/screenshot-dark.png)
+![Screenshot](docs/screenshot-light.png)
 ![Screenshot](docs/dashboard.png)
 ![Screenshot](docs/transactions.png)
 ![Screenshot](docs/categories.png)
