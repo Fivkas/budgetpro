@@ -27,7 +27,7 @@ Manage your transactions, categories, and visualize your financial data — all 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/budgetpro.git
+git clone https://github.com/Fivkas/budgetpro.git
 cd budgetpro
 ```
 
